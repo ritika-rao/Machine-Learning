@@ -1,2 +1,2 @@
 # Machine-Learning
-Projects made while learning ML.
+Repository for College ML Classes
